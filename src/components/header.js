@@ -5,10 +5,12 @@ class Header extends Component {
 		render(){
 			return (
 				<div>
-					<header className = 'logo'>Logo</header>
+					<header>
+						<div className = 'logo'>Logo</div>
+					</header>
 					<input type='text'/>
 				</div>
-			)
+			)  
 		}
 }
 
