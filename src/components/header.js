@@ -6,11 +6,11 @@ class Header extends Component {
 			return (
 				<div>
 					<header>
-						<div className = 'logo'>Logo</div>
-					</header>
+						<div className='logo'>Logo</div>
 					<input type='text'/>
+					</header>
 				</div>
-			)  
+			)
 		}
 }
 
