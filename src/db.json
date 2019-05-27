@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"title": "New ES6 upgrade available",
+		"feed": "Sed ut perspiciatis unde omnis"
+	},
+	{
+		"id": 2,
+		"title": "The importance of react in the development",
+		"feed": "Sed perspiciatis unde omnis"
+	},
+	{
+		"id": 3,
+		"title": "react developers going on strike",
+		"feed": "Sed ut perspiciatis omnis"
+	},
+	{
+		"id": 4,
+		"title": "Say with again",
+		"feed": "Sed perspiciatis omnis"
+	}
+]
